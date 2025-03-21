@@ -1,0 +1,1 @@
+本仓库用于归档在学习Andrej Karpathy大佬的Neural Networks: Zero to Hero系列视频时的代码及笔记
